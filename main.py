@@ -33,5 +33,5 @@ for i in range(dict_quantity):
 # Printing the list of dictionaries
 print(f"List of dictionaries {dict_list}")
 
-# Get previously generated list of dicts and create one common dict
+# Get previously generated list of dicts and create one common
 
